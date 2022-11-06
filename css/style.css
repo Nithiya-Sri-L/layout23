@@ -1,0 +1,297 @@
+ .header .wrapper
+ {
+	width:90%;
+    margin:auto;	
+ }
+ 
+  .banner .wrapper
+ {
+	width:90%;
+    margin:auto;	
+ }
+ .service .wrapper
+ {
+	 width:90%;
+	 margin:auto;	
+ }
+ .pricing .wrapper
+ {
+	 width:90%;
+	 margin:auto;
+ }
+ .feedback .wrapper
+ {
+	  width:90%;
+	 margin:auto;	
+ }
+  .information .wrapper
+ {
+	  width:100%;
+	 margin:auto;	
+ }
+ .copyright
+ {
+	 width:100%;
+	 margin:auto;
+ }
+ .header
+ {
+	 height:80px;
+	 background-color:black;
+ }
+ .header .header-fc 
+ {
+	 display:flex;
+	 justify-content:space-between;
+ }
+ .header .header-fc .home
+ {
+	 text-align:center;
+	 width:45%;
+	 height:80px;
+	 background-color:#ff5722;
+ }
+ .header .header-fc .navi
+ {
+	 text-align:center;
+	 background-color:#03a9f4;
+	 width:45%;
+	 height:80px;
+ }
+ .banner
+ {
+	 text-align:center;
+	 background-color:#657e15;
+	 height:400px;
+ }
+ .service
+ {
+	 text-align:center;
+	 height:500px;
+	background-color:#cddc39;
+ }
+ .service .service-fc
+ {
+	 display:flex;
+	 justify-content:space-around;
+ }
+ .service .service-fc .boxa
+ {
+	 margin-top:70px;
+	 height:300px;
+	 width:20%;
+	 background-color:yellow;
+ }
+ .service .service-fc .boxb
+ {
+	 margin-top:70px;
+	 height:300px;
+	 width:20%;
+	 background-color:pink;
+ }
+  .service .service-fc .boxc
+ {
+	 margin-top:70px;
+	 height:300px;
+	 width:20%;
+	 background-color:yellow;
+ }
+  .pricing
+ {
+	 text-align:center;
+	 height:500px;
+	background-color:crimson;
+ }
+ .pricing .pricing-fc
+ {
+	 display:flex;
+	 justify-content:space-around;
+ }
+ .pricing .pricing-fc .boxa
+ {
+	 margin-top:70px;
+	 height:300px;
+	 width:20%;
+	 background-color:pink;
+ }
+ .pricing .pricing-fc .boxb
+ {
+	 margin-top:70px;
+	 height:300px;
+	 width:20%;
+	 background-color:yellow;
+ }
+  .pricing .pricing-fc .boxc
+ {
+	 margin-top:70px;
+	 height:300px;
+	 width:20%;
+	 background-color:pink;
+ }
+ .feedback
+ {
+	 text-align:center;
+	 height:500px;
+	background-color:orange;
+ }
+ .feedback .feedback-fc
+ {
+	 display:flex;
+	 justify-content:space-evenly;
+ }
+ .feedback .feedback-fc .boxa
+ {
+	 margin-top:70px;
+	 height:300px;
+	 width:40%;
+	 background-color:#e91e63;
+ }
+ .feedback .feedback-fc .boxb
+ {
+	 margin-top:70px;
+	 height:300px;
+	 width:40%;
+	 background-color:#e91e63;
+ }
+ .information 
+ {
+	 text-align:center;
+	 height:500px;
+	background-color:#03a9f4;
+ }
+ .information .information-fc
+ {
+	 display:flex;
+	 justify-content:space-evenly;
+ }
+ .information .information-fc .boxa
+ {
+	 margin-top:70px;
+	 height:300px;
+	 width:20%;
+	 background-color:orange;
+ }
+ .information .information-fc .boxb
+ {
+	 margin-top:70px;
+	 height:300px;
+	 width:20%;
+	 background-color:#009688;
+ }
+  .information .information-fc .boxc
+ {
+	 margin-top:70px;
+	 height:300px;
+	 width:20%;
+	 background-color:orange;
+ }
+ .information .information-fc .boxd
+ {
+	 margin-top:70px;
+	 height:300px;
+	 width:20%;
+	 background-color:#009688;
+ }
+ .copyright
+ {
+	 background-color:#ff5722;
+	 height:200px;
+	 text-align:center;
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
